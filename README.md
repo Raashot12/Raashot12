@@ -10,7 +10,7 @@ I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nig
 
 ### Useful Links 💙
 
-- [Resume]([https://drive.google.com/file/d/1VLrAURaDoH1QmWT192O5HKbuJH6hywcGwLtGs2aDVyA/view](https://drive.google.com/file/d/1HIpJJA-C3S3Z9p7qd3LfI6bN5lSWLv2s/view?usp=sharing))
+- [Resume](https://drive.google.com/file/d/1HIpJJA-C3S3Z9p7qd3LfI6bN5lSWLv2s/view?usp=sharing)
 - [Portfolio](https://abdulsamad.xyz)
 - [Blog](https://rashdev.hashnode.dev/)
 - [GitHub](https://github.com/Raashot12)
