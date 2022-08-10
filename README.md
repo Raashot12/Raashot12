@@ -1,5 +1,4 @@
-### Hola! 👋
-
+### Hola! <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">
 I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nigeria who loves and enjoy working between design and engineering teams to transform ideas into prototypes and prototypes into live projects. I'm passionate about writing clean code, optimizing existing codebase for better performance and contributing to open source projects.
 
 - 🌱 I have learnt Advanced React JS tool, Next JS and Javascript Animations
@@ -14,11 +13,11 @@ I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nig
 - [Portfolio](https://rashdevpf.netlify.app/)
 - [Blog](https://rashdev.hashnode.dev/)
 - [GitHub](https://github.com/Raashot12)
-- [Facebook](https://facebook.com/abdulsamad.ayoade.313)
+- [Facebook](https://web.facebook.com/akanirasheed44)
 - [Twitter](https://twitter.com/akanni_i)
 
-## <h2 align="center"> Hi I'm Adebayo Olamilekan (Oleanji) <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">   </h2>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Web+Developer;Blockend+Developer)](https://git.io/typing-svg)
+
+
 
 <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="800" height="600">
 
