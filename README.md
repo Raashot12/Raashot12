@@ -17,17 +17,6 @@ I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nig
 - [Twitter](https://twitter.com/akanni_i)
 
 
-
-
-<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="800" height="600">
-
-
-- 🔭 I’m from Nigeria and i'm currently learning  building Application (Centeralised and Decentralised)
-- 🌱 I’m currently learning Javascript and Blockchain development
-- 💬 Ask me about HTML, CSS , JavaScript and Blockchain.
-- 📫 How to reach me: oleanji.sol@gmail.com
-- ⚡ Fun fact: I spend hours drawing and sketching.
-
 ![]("https://github.com/OleanjiKingCode/OleanjiKingCode/blob/9c9a349a5977740e569e318c303812e56600817e/giphy.gif" )
 
 
