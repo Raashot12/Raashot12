@@ -17,7 +17,7 @@ I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nig
 - [Twitter](https://twitter.com/akanni_i)
 
 
-![]("https://github.com/OleanjiKingCode/OleanjiKingCode/blob/9c9a349a5977740e569e318c303812e56600817e/giphy.gif" )
+![]("https://github.com/Raashot12/Raashot12/blob/9c9a349a5977740e569e318c303812e56600817e/giphy.gif" )
 
 
 <h2 align="left">Languages and Tools:</h2>
