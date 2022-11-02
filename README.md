@@ -5,7 +5,7 @@ I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nig
 - 👯 I’m interested in collaborating with designers to build amazing websites and web apps
 - 💬 Ask me about anything, I'll be happy to help
 - 📫 How to reach me: DM [@akanni_i](https://twitter.com/akanni_i)
-- ⚡ Fun fact: While I'm not coding, you'll find me writing fiction, reading African literatures, or studying finance and economics.
+- ⚡ Fun fact: While I'm not coding, you see me trying be a better person in everything I do in life and also to impact people with knowledge.
 
 ### Useful Links 💙
 
