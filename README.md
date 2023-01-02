@@ -1,7 +1,7 @@
 ### Hola! <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">
 I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nigeria who loves and enjoy working between design and engineering teams to transform ideas into prototypes and prototypes into live projects. I'm passionate about writing clean code, optimizing existing codebase for better performance and contributing to open source projects.
 
-- 🌱 I have learnt Advanced React JS tool, Next JS and Javascript Animations
+- 🌱 I have learnt Advanced React JS, Next JS, Gatsby,Vue, Nuxt.js, Redux,TypeScript and Javascript Animations
 - 👯 I’m interested in collaborating with designers to build amazing websites and web apps
 - 💬 Ask me about anything, I'll be happy to help
 - 📫 How to reach me: DM [@akanni_i](https://twitter.com/akanni_i)
