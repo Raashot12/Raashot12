@@ -1,11 +1,39 @@
 ### Hola! <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">
 I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nigeria who loves and enjoy working between design and engineering teams to transform ideas into prototypes and prototypes into live projects. I'm passionate about writing clean code, optimizing existing codebase for better performance and contributing to open source projects.
 
-- 🌱 I have learnt Advanced React JS, Next JS, Gatsby,Vue, Nuxt.js, Redux,TypeScript and Javascript Animations
-- 👯 I’m interested in collaborating with designers to build amazing websites and web apps
-- 💬 Ask me about anything, I'll be happy to help
-- 📫 How to reach me: DM [@akanni_i](https://twitter.com/akanni_i)
-- ⚡ Fun fact: While I'm not coding, you see me trying be a better person in everything I do in life and also to impact people with knowledge.
+## Skills
+- **🚀 Frontend Technologies:**
+  - HTML5, CSS3, JavaScript ES6+, Redux
+- **🧰 Backend Technologies:**
+  - Node.js
+- **🌐 Backend Frameworks:**
+  - Express.js, Nest.js
+- **🗃️ Databases:**
+  - PostgreSQL, MongoDB
+- **🎨 UI/UX Design:**
+  - Wireframing, Prototyping, Adobe XD
+- **💡 Frameworks:**
+  - React, Next.js, Gatsby, Vue.js
+- **📱 Mobile Development:**
+  - React Native, React Native Expo
+- **🌐 Web Accessibility:**
+  - WCAG Guidelines, ARIA Roles
+- **🛠️ Tools:**
+  - Git, VS Code, Figma
+- **📊 Performance:**
+  - Page Speed Optimization, Code Splitting
+- **🔄 Version Control:**
+  - Git, GitHub
+- **🌐 Cross-Browser Compatibility:**
+  - BrowserStack Testing
+- **📱 Responsive Design:**
+  - Media Queries, Container Queries, Flexbox, CSS Grid
+- **📚 CSS libraries:**
+  - Tailwind CSS, Styled-components, Mantine, Chakra & Material UI, Ant Design
+- **💬 Soft Skills:**
+  - Effective Communication, Problem Solving, Team Collaboration
+- **📈 Analytics:**
+  - Google Analytics, User Behavior Tracking
 
 ### Useful Links 💙
 
