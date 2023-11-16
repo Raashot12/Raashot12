@@ -50,5 +50,5 @@ I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nig
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,bootstrap,github,react,redux,vue,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,next,node,nest,graphql,mongodb, postgres, vscode,bootstrap,github,react,redux,vue,nuxt)](https://skillicons.dev)
 
