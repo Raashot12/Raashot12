@@ -1,5 +1,5 @@
 ### Hola! <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">
-I'm Iskilu Rasheed Akanni, a design minded frontend engineer based in Lagos, Nigeria who loves and enjoy working between design and engineering teams to transform ideas into prototypes and prototypes into live projects. I'm passionate about writing clean code, optimizing existing codebase for better performance and contributing to open source projects.
+Passionate Full Stack Software Engineer with a specialization in crafting pixel-perfect UI/UX designs. Possessing a robust foundation in both frontend and backend technologies, alongside a keen understanding of design principles, I am dedicated to developing visually stunning and user-friendly web experiences. My emphasis on frontend excellence is complemented by a comprehensive skill set in backend technologies, particularly in Node.js. Continuously seeking to expand my knowledge and stay abreast of the latest industry trends, I am committed to delivering holistic and engaging web solutions that seamlessly blend aesthetic appeal with technical sophistication.
 
 ## Skills
 - **🚀 Frontend Technologies:**
